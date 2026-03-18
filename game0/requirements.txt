@@ -1,0 +1,4 @@
+Package   Version
+--------- -------
+pip       25.3
+pygame-ce 2.5.7
